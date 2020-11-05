@@ -1,0 +1,79 @@
+<DOCTYPE html>
+    <html>
+        <head>
+        <title>PaginaPersonala</title>
+		<link rel="stylesheet" type="text/css" href="mystyle.css">
+        <style>
+            *{
+               margin:0;
+               padding:0;
+               box-sizing: border-box;
+               }
+               html{
+              font-size: 10px;
+              font-family: "Lato", Arial, sans-serif;
+              }
+              h1{
+            font-size: 3rem;
+            text-transform: uppercase;
+            letter-spacing: 10px;
+            position: absolute;
+            top: 15%;
+            left:50%;
+            transform: translate(-50%, -50%);
+            text-align:center;
+            color:#333533;
+              }
+              .picture1{
+                  position:absolute;
+                  top:25%;
+                  left:40%;
+                  width:300px;
+                  height:200px;
+              }
+              .button1{
+                  position:absolute;
+                  top:60%;
+                  left:40%;
+                  float:left;
+                  color:#0e270e;
+              }
+              .button2{
+                  position:absolute;
+                  top:60%;
+                  left:45%;
+                  float:left;
+                  color:#051d05;
+              }
+              .button3{
+                  position:absolute;
+                  top:60%;
+                  left:50%;
+                  float:left;
+                  color:#081808;
+              }
+              .box{
+                  position:absolute;
+                  top:70%;
+                  left:42%;
+                  font-size:20px;
+                  color:red;
+              }
+        </style>
+        </head>
+        <body>
+            <img src="minimalistic_00385599.jpg" class="picture1">
+        <h1>Curca Nicola Florin<br>
+        Web design</h1>
+        <button onclick="window.location.href='https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3103.pdf'" class="button1">Fizica</button>
+        <button onclick="window.location.href='https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3105.pdf'" class="button2">CCP</button>
+        <button onclick="window.location.href='https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3106.pdf'" class="button3">Informatica Aplicata</button>
+
+        <div class="box">
+            <h2>Contact me </h2>
+            <a href="https://www.google.com/search?q=yahoo+mail&oq=&sourceid=chrome&ie=UTF-8">florin4u4me@yahoo.com</a>
+            <a href="florinnicola.ddns.net">My WebSite</a>
+        </div>
+		<a href="file:///C:/Users/Alex/Desktop/IA_lab06/catalog/CATALOG1.html"><button> back </button></a>
+        </body>
+        </html>

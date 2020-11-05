@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<title> Descriere personala </title>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+ <div> <h3> Nume: Cojocariu </h1>
+  <h3> Prenume: Oana - Maria </h1>
+  <h3> E-mail: oanacojocariu1@gmail.com </h1>
+  <img src="aa.jpg" width="140" height="200" >
+</div>
+<table>
+   <tr>
+     <td> Nr. Crt. </td>
+     <td> Disciplina </td>
+     <td> Anul in care se studiaza </td>
+     <td> Descriere </td>
+  </tr>
+<p> „Scopul educației ar trebui să fie pregătirea unor oameni care să acționeze și să gândească independent și care, în același timp, să vadă în slujirea comunității realizarea supremă a vieții lor.” -  Albert Einstein” </p>
+  <tr>
+     <td> 1 </td>
+     <td> Tehnologii multimedia  </td>
+     <td> Anul IV </td>
+     <td> <a href="https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3155.20.pdf"> Link disciplina</a></td>
+  </tr>
+
+   <tr>
+     <td> 2 </td>
+     <td> Teoria semnalelor  </td>
+     <td> Anul II </td>
+     <td> <a href="https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3119.pdf"> Link disciplina</a> </td>
+  </tr>
+  
+   <tr>
+     <td> 3 </td>
+     <td> Prelucrare numerică a imaginilor  </td>
+     <td> Anul IV </td>
+     <td> <a href="https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3150.20.pdf"> Link disciplina</a> </td>
+  </tr>
+</table>
+
+<div>
+
+<h4> Hobby-uri </h4>
+  <ul>
+    <li>Voluntariarul</li>
+    <li>Calatoriile </li>
+    <li>Cititul</li>
+</ul>
+
+</div>
+
+<a href="file:///C:/Users/Alex/Desktop/IA_lab06/catalog/CATALOG1.html"><button> back </button></a> 
+</body>
+ 
+</html>
